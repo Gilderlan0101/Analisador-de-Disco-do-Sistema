@@ -5,6 +5,9 @@ Script "plug-and-play" que verifica automaticamente o tamanho total de múltiplo
 Requisitos:
 ```
 pip install python-dotenv
+
+USER_ROOT="seu_usuario_root" 
+
 ```
 
 
